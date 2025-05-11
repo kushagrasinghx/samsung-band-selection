@@ -8,7 +8,7 @@ This is a minimal Android app designed to open Samsung's hidden **Network Band S
 ## ⚙️ Requirements
 
 - Samsung device running **Android 14 or above**
-- **One UI 6+**
+- **One UI 6 and One UI 7**
 - **Root access** via [Magisk](https://topjohnwu.github.io/Magisk/) or [KernelSU](https://kernelsu.org/)
 - Root access must be properly granted to the app
 
@@ -25,7 +25,7 @@ This is a minimal Android app designed to open Samsung's hidden **Network Band S
 
 ## 🛠️ Installation & Usage
 
-1. [Download the APK](#) or build from source.
+1. [Download the APK](https://github.com/kushagrasinghx/samsung-band-selection/releases) or build from source.
 2. Install it on your **rooted Samsung device**.
 3. Open the app.
 4. When prompted, **grant superuser/root permission** via Magisk or KernelSU.
@@ -41,15 +41,6 @@ This is a minimal Android app designed to open Samsung's hidden **Network Band S
 - ✅ KernelSU
 
 Root permission is required to execute the `am start` shell command with elevated privileges.
-
----
-
-## 🧱 Tech Stack
-
-- Android Studio + Kotlin
-- Jetpack Compose
-- Accompanist System UI Controller
-- ShortcutManagerCompat
 
 ---
 
