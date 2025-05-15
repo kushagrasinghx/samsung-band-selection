@@ -19,7 +19,6 @@ This is a minimal Android app designed to open Samsung's hidden **Network Band S
 - 📶 Opens **Samsung’s internal band selection activity**
 - ⚡ One-tap launch, no need for manual `adb shell` commands
 - 🔗 Includes a **shortcut creator** to pin the feature directly to your home screen
-- 💡 Clean UI built using **Jetpack Compose**
 
 ---
 
