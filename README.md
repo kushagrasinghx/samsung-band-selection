@@ -8,7 +8,7 @@ This is a minimal Android app designed to open Samsung's hidden **Network Band S
 ## ⚙️ Requirements
 
 - Samsung device running **Android 14 or above**
-- **One UI 6 and One UI 7**
+- **One UI 6, One UI 7 and One UI 8**
 - **Root access** via [Magisk](https://topjohnwu.github.io/Magisk/) or [KernelSU](https://kernelsu.org/)
 - Root access must be properly granted to the app
 
